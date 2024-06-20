@@ -4,3 +4,5 @@ remote edit
 local edit
 
 reset branch soft1
+commit 2
+commit 3
