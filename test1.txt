@@ -3,3 +3,4 @@ reset
 remote edit
 local edit
 
+reset branch soft1
