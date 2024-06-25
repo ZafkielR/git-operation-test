@@ -6,3 +6,5 @@ local edit
 reset branch soft1
 commit 2
 commit 3
+
+amend远端测试1
