@@ -7,4 +7,6 @@ reset branch soft1
 commit 2
 commit 3
 
-amend远端测试1
+amend远端测试
+amend
+
